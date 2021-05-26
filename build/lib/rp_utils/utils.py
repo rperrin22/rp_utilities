@@ -13,5 +13,3 @@ def rp_peak_dataset_create(dx):
     x_out = xx.flatten()
     y_out = yy.flatten()
     z_out = zz.flatten()
-
-    return x_out,y_out,z_out
